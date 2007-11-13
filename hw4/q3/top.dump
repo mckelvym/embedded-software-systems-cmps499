@@ -1,0 +1,687 @@
+$date
+	Tue Nov 13 11:43:48 2007
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 16 ! Sum[15:0] $end
+$var wire 15 " carry[14:0] $end
+$var wire 1 # cout $end
+$var reg 16 $ A[15:0] $end
+$var reg 16 % B[15:0] $end
+$var reg 1 & cin $end
+$scope module full_1bit_adder0 $end
+$var wire 1 ' a $end
+$var wire 1 ( b $end
+$var wire 1 & cin $end
+$var wire 1 ) cout $end
+$var wire 4 * cout_temp[3:0] $end
+$var wire 1 + sum $end
+$var wire 1 , sum_temp $end
+$upscope $end
+$scope module full_1bit_adder1 $end
+$var wire 1 - a $end
+$var wire 1 . b $end
+$var wire 1 ) cin $end
+$var wire 1 / cout $end
+$var wire 4 0 cout_temp[3:0] $end
+$var wire 1 1 sum $end
+$var wire 1 2 sum_temp $end
+$upscope $end
+$scope module full_1bit_adder2 $end
+$var wire 1 3 a $end
+$var wire 1 4 b $end
+$var wire 1 / cin $end
+$var wire 1 5 cout $end
+$var wire 4 6 cout_temp[3:0] $end
+$var wire 1 7 sum $end
+$var wire 1 8 sum_temp $end
+$upscope $end
+$scope module full_1bit_adder3 $end
+$var wire 1 9 a $end
+$var wire 1 : b $end
+$var wire 1 5 cin $end
+$var wire 1 ; cout $end
+$var wire 4 < cout_temp[3:0] $end
+$var wire 1 = sum $end
+$var wire 1 > sum_temp $end
+$upscope $end
+$scope module full_1bit_adder4 $end
+$var wire 1 ? a $end
+$var wire 1 @ b $end
+$var wire 1 ; cin $end
+$var wire 1 A cout $end
+$var wire 4 B cout_temp[3:0] $end
+$var wire 1 C sum $end
+$var wire 1 D sum_temp $end
+$upscope $end
+$scope module full_1bit_adder5 $end
+$var wire 1 E a $end
+$var wire 1 F b $end
+$var wire 1 A cin $end
+$var wire 1 G cout $end
+$var wire 4 H cout_temp[3:0] $end
+$var wire 1 I sum $end
+$var wire 1 J sum_temp $end
+$upscope $end
+$scope module full_1bit_adder6 $end
+$var wire 1 K a $end
+$var wire 1 L b $end
+$var wire 1 G cin $end
+$var wire 1 M cout $end
+$var wire 4 N cout_temp[3:0] $end
+$var wire 1 O sum $end
+$var wire 1 P sum_temp $end
+$upscope $end
+$scope module full_1bit_adder7 $end
+$var wire 1 Q a $end
+$var wire 1 R b $end
+$var wire 1 M cin $end
+$var wire 1 S cout $end
+$var wire 4 T cout_temp[3:0] $end
+$var wire 1 U sum $end
+$var wire 1 V sum_temp $end
+$upscope $end
+$scope module full_1bit_adder8 $end
+$var wire 1 W a $end
+$var wire 1 X b $end
+$var wire 1 S cin $end
+$var wire 1 Y cout $end
+$var wire 4 Z cout_temp[3:0] $end
+$var wire 1 [ sum $end
+$var wire 1 \ sum_temp $end
+$upscope $end
+$scope module full_1bit_adder9 $end
+$var wire 1 ] a $end
+$var wire 1 ^ b $end
+$var wire 1 Y cin $end
+$var wire 1 _ cout $end
+$var wire 4 ` cout_temp[3:0] $end
+$var wire 1 a sum $end
+$var wire 1 b sum_temp $end
+$upscope $end
+$scope module full_1bit_adder10 $end
+$var wire 1 c a $end
+$var wire 1 d b $end
+$var wire 1 _ cin $end
+$var wire 1 e cout $end
+$var wire 4 f cout_temp[3:0] $end
+$var wire 1 g sum $end
+$var wire 1 h sum_temp $end
+$upscope $end
+$scope module full_1bit_adder11 $end
+$var wire 1 i a $end
+$var wire 1 j b $end
+$var wire 1 e cin $end
+$var wire 1 k cout $end
+$var wire 4 l cout_temp[3:0] $end
+$var wire 1 m sum $end
+$var wire 1 n sum_temp $end
+$upscope $end
+$scope module full_1bit_adder12 $end
+$var wire 1 o a $end
+$var wire 1 p b $end
+$var wire 1 k cin $end
+$var wire 1 q cout $end
+$var wire 4 r cout_temp[3:0] $end
+$var wire 1 s sum $end
+$var wire 1 t sum_temp $end
+$upscope $end
+$scope module full_1bit_adder13 $end
+$var wire 1 u a $end
+$var wire 1 v b $end
+$var wire 1 q cin $end
+$var wire 1 w cout $end
+$var wire 4 x cout_temp[3:0] $end
+$var wire 1 y sum $end
+$var wire 1 z sum_temp $end
+$upscope $end
+$scope module full_1bit_adder14 $end
+$var wire 1 { a $end
+$var wire 1 | b $end
+$var wire 1 w cin $end
+$var wire 1 } cout $end
+$var wire 4 ~ cout_temp[3:0] $end
+$var wire 1 !" sum $end
+$var wire 1 "" sum_temp $end
+$upscope $end
+$scope module full_1bit_adder15 $end
+$var wire 1 #" a $end
+$var wire 1 $" b $end
+$var wire 1 } cin $end
+$var wire 1 # cout $end
+$var wire 4 %" cout_temp[3:0] $end
+$var wire 1 &" sum $end
+$var wire 1 '" sum_temp $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0'"
+0&"
+b0 %"
+0$"
+0#"
+0""
+0!"
+b0 ~
+0}
+0|
+0{
+0z
+0y
+b0 x
+0w
+0v
+0u
+0t
+0s
+b0 r
+0q
+0p
+0o
+0n
+0m
+b0 l
+0k
+0j
+0i
+0h
+0g
+b0 f
+0e
+0d
+0c
+0b
+0a
+b0 `
+0_
+0^
+0]
+0\
+0[
+b0 Z
+0Y
+0X
+0W
+0V
+1U
+b0 T
+0S
+0R
+1Q
+0P
+0O
+b0 N
+0M
+0L
+0K
+0J
+0I
+b0 H
+0G
+0F
+0E
+0D
+0C
+b0 B
+0A
+0@
+0?
+0>
+0=
+b0 <
+0;
+0:
+09
+08
+07
+b0 6
+05
+04
+03
+02
+01
+b0 0
+0/
+0.
+0-
+1,
+1+
+b0 *
+0)
+1(
+0'
+0&
+b1 %
+b10000000 $
+0#
+b0 "
+b10000001 !
+$end
+#10
+11
+12
+b10000010 !
+0+
+b1 "
+1)
+0,
+b1 *
+1&
+#20
+b1 "
+1)
+1,
+b10000010 !
+0+
+b1100 *
+0&
+b10000001 $
+1'
+#30
+b10000011 !
+1+
+0,
+b1111 *
+1&
+#40
+1C
+1D
+1;
+15
+0+
+b1111 "
+1/
+1,
+b1100 *
+0>
+b1111 <
+08
+b1111 6
+02
+0U
+1=
+17
+b11110 !
+11
+b1111 0
+0&
+1:
+14
+b1111 %
+1.
+0Q
+19
+13
+b1111 $
+1-
+#50
+b11111 !
+1+
+0,
+b1111 *
+1&
+#60
+0=
+1>
+b1100 <
+b1011 "
+05
+0+
+1,
+b1100 *
+18
+17
+b0 6
+b10100 !
+01
+b1 0
+0&
+b1011 %
+04
+03
+b1001 $
+0-
+#70
+b10101 !
+1+
+0,
+b1111 *
+1&
+#80
+1O
+1P
+b101011 "
+1G
+0+
+1,
+b1100 *
+1J
+b1100 H
+1U
+b11010100 !
+0I
+0&
+b101011 %
+1F
+1Q
+b10101001 $
+1E
+#90
+b11010101 !
+1+
+0,
+b1111 *
+1&
+#100
+1[
+1\
+b10101011 "
+1S
+0+
+b101010100 !
+0U
+1,
+b1100 *
+1V
+b1100 T
+0&
+b10101011 %
+1R
+#110
+1g
+1!"
+1s
+1h
+0O
+0C
+1""
+1t
+1_
+07
+0P
+0D
+1#
+1w
+1k
+b1 `
+08
+0S
+0G
+0;
+0)
+0a
+1Y
+01
+b10101100000000 "
+0/
+1'"
+b1100 %"
+1z
+b1100 x
+1n
+b1100 l
+0b
+1\
+0V
+0J
+0>
+02
+b0 0
+1,
+0&"
+0y
+0m
+0[
+b1100 Z
+0U
+b0 T
+0I
+b0 H
+0=
+b0 <
+b101010000000001 !
+1+
+b0 *
+1&
+1$"
+1v
+1j
+1^
+1X
+0R
+0F
+0:
+0.
+b1010101100000000 %
+0(
+1#"
+1u
+1i
+1W
+0Q
+0E
+09
+b1010100100000000 $
+0'
+#120
+1m
+1y
+0n
+b1111 l
+0z
+b1111 x
+1e
+0+
+0s
+b11111100000000 "
+1q
+0,
+0t
+b1 r
+b110100000000000 !
+0g
+b1010 f
+0&
+b1011101100000000 %
+1p
+b1010110100000000 $
+1c
+#130
+b110100000000001 !
+1+
+1,
+1&
+#140
+0w
+1z
+1s
+0q
+1t
+b0 r
+0k
+1n
+0e
+1a
+0_
+1b
+b0 `
+1'"
+0Y
+0#
+0+
+1!"
+b0 "
+0}
+1[
+0,
+1""
+b0 ~
+1h
+0\
+b0 Z
+1&"
+b0 %"
+1y
+b0 x
+1m
+b0 l
+b1111111100000000 !
+1g
+b0 f
+0&
+1|
+1d
+b1111111000000000 %
+0X
+0#"
+0u
+0i
+b100000000 $
+0c
+#150
+b1111111100000001 !
+1+
+1,
+1&
+#160
+0&"
+1#
+0'"
+b1 %"
+0!"
+1}
+0""
+b1 ~
+0y
+1w
+0z
+b1 x
+0s
+1q
+0t
+b1 r
+0m
+1k
+0n
+b1 l
+0g
+1e
+0h
+b1 f
+0a
+1_
+0b
+b1 `
+b111111100000000 "
+1Y
+b1 !
+0[
+1\
+b1100 Z
+b1111111100000000 %
+1X
+#170
+1U
+1O
+1I
+1C
+1=
+17
+11
+1V
+1P
+1J
+1D
+1>
+18
+12
+1,
+b0 *
+1&"
+b1111 %"
+1!"
+b1111 ~
+1y
+b1111 x
+1s
+b1111 r
+1m
+b1111 l
+1g
+b1111 f
+b1111111011111111 !
+1a
+b1111 `
+0&
+1R
+1L
+1F
+1@
+1:
+14
+1.
+b1111111111111111 %
+1(
+1#"
+1{
+1u
+1o
+1i
+1c
+b1111111100000000 $
+1]
+#180
+1[
+0\
+b1111 Z
+0V
+0P
+0J
+0D
+0>
+08
+02
+1S
+1M
+1G
+1A
+1;
+15
+1/
+b111111111111111 "
+1)
+0,
+1U
+b1111 T
+1O
+b1111 N
+1I
+b1111 H
+1C
+b1111 B
+1=
+b1111 <
+17
+b1111 6
+11
+b1111 0
+b1111111111111111 !
+1+
+b1111 *
+1&
+1Q
+1K
+1E
+1?
+19
+13
+1-
+b1111111111111111 $
+1'

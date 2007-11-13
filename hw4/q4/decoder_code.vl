@@ -1,0 +1,49 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 4. 
+ Takes a 3-bit input code and decodes the signal and sends to output.
+ It is a 3-to-8 decoder.
+*/
+module decoder_3_to_8 (in, out);
+
+   // declare input and outputs
+   input [2:0]  in;
+   output [7:0] out;
+
+   // declare a set of temporary wires to aid in calculation
+   wire [7:0] 	wires;
+
+   // decode when to send high to out line 0
+   and(wires[0], ~in[1], ~in[2]);
+   and(out[0], ~in[0], wires[0]);
+
+   // decode when to send high to out line 1
+   and(wires[1], ~in[1], ~in[2]);
+   and(out[1], in[0], wires[1]);
+
+   // decode when to send high to out line 2
+   and(wires[2], ~in[0], ~in[2]);
+   and(out[2], in[1], wires[2]);
+
+   // decode when to send high to out line 3
+   and(wires[3], in[0], in[1]);
+   and(out[3], ~in[2], wires[3]);
+
+   // decode when to send high to out line 4
+   and(wires[4], ~in[0], ~in[1]);
+   and(out[4], in[2], wires[4]);
+
+   // decode when to send high to out line 5
+   and(wires[5], in[0], ~in[1]);
+   and(out[5], in[2], wires[5]);
+
+   // decode when to send high to out line 6
+   and(wires[6], ~in[0], in[1]);
+   and(out[6], in[2], wires[6]);
+
+   // decode when to send high to out line 7
+   and(wires[7], in[0], in[1]);
+   and(out[7], in[2], wires[7]);
+endmodule

@@ -1,0 +1,140 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 2. Design for a 16-bit alu.
+ Inputs are two 16-bit numbers, and a 3-bit control code.
+ Output is a 16-bit sum and 1-bit carry-out.
+*/
+module top();
+
+// declare variable that we'll need   
+reg [15:0] A;
+reg [15:0] B;
+reg [2:0] Control;
+wire [15:0] Out;
+
+// use my fancy alu
+ALU fancyALU (A, B, Control, Out);
+
+initial
+	begin
+
+	// declare a series of tests for the alu
+	A = 16'b0000000000000000;
+	B = 16'b0000000000000000;
+	Control = 3'b000;
+	   
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b1111111111111111;
+	Control = 3'b000;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b0000000000000000;
+	Control = 3'b000;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b1111111111111111;
+	Control = 3'b000;
+	   
+
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b0000000000000000;
+	Control = 3'b001;
+	   
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b1111111111111111;
+	Control = 3'b001;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b0000000000000000;
+	Control = 3'b001;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b1111111111111111;
+	Control = 3'b001;
+
+
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b0000000000000000;
+	Control = 3'b010;
+	   
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b1111111111111111;
+	Control = 3'b010;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b0000000000000000;
+	Control = 3'b010;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b1111111111111111;
+	Control = 3'b010;
+
+
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b0000000000000000;
+	Control = 3'b011;
+	   
+	   
+	#10;	   
+	A = 16'b0000000000000000;
+	B = 16'b1111111111111111;
+	Control = 3'b011;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b0000000000000000;
+	Control = 3'b011;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b1111111111111111;
+	Control = 3'b011;
+
+
+	#10;	   
+	A = 16'b0000000000000000;
+	B = 16'b0000000000000000;
+	Control = 3'b111;
+	   
+	#10;
+	A = 16'b0000000000000000;
+	B = 16'b1111111111111111;
+	Control = 3'b101;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b0000000000000000;
+	Control = 3'b111;
+
+	#10;
+	A = 16'b1111111111111111;
+	B = 16'b1111111111111111;
+	Control = 3'b110;
+	   
+	#10;
+	$dumpflush;
+end
+	  
+initial
+	begin
+	// output the results to the monitor
+	$monitor("\na\t=\t%16b \nb\t=\t%16b \nout\t=\t%16b \nctrl\t=\t%3b \ntime\t=\t%t\n-----------------------------------", A, B, Out, Control, $time);
+	$dumpfile("top.dump");
+	$dumpvars(3, top);
+end
+
+endmodule

@@ -1,0 +1,24 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 4. 
+ Takes 2 1-bit numbers a,b and a 1-bit control input ctrl.
+ If ctrl is 0 then output is same as a, else it is same as b.
+*/
+module muxcode (a, b, ctrl, out);
+
+   input a;
+   input b;
+   input ctrl;
+   output out;
+
+   wire   w1;
+   wire   w2;
+   wire   w3;
+
+   not(w1, ctrl);
+   and(w2, a, w1);
+   and(w3, b, ctrl);
+   or(out, w2, w3);
+endmodule

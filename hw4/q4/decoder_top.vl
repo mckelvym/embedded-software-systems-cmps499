@@ -1,0 +1,54 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 4. 
+ Takes a 3-bit input code and decodes the signal and sends to output.
+ It is a 3-to-8 decoder.
+*/
+module decoder_top();
+
+   // declare inputs and outputs
+   reg [2:0] in;
+   wire [7:0] out;
+   
+   // declare an instance of the decoder
+   decoder_3_to_8  my_super_decoder (in, out);
+
+   initial
+   begin
+	  // begin tests
+
+	  in = 3'b000;
+	  #10;
+
+  	  in = 3'b001;
+	  #10;
+
+   	  in = 3'b010;
+	  #10;
+
+	  in = 3'b011;
+	  #10;
+
+	  in = 3'b100;
+	  #10;
+
+	  in = 3'b101;
+	  #10;
+
+	  in = 3'b110;
+	  #10;
+
+	  in = 3'b111;
+	  #10;
+
+	  $dumpflush;
+   end // initial begin
+
+   initial
+   begin
+	  // send outputs to screen
+	  $monitor("input\t=\t%3b \noutput\t=\t%8b \ntime\t=%t\n\n", in, out, $time);
+   end
+endmodule

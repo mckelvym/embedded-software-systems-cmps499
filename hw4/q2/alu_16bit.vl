@@ -1,0 +1,29 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 2. Design for a 16-bit alu.
+ Inputs are two 16-bit numbers, and a 3-bit control code.
+ Output is a 16-bit sum and 1-bit carry-out.
+*/
+module ALU(a, b, ctrl, out);
+   // declare inputs and outputs
+   input [15:0] a;
+   input [15:0] b;
+   input [2:0] 	ctrl;
+   output [15:0] out;
+   // also set out as a register so it can be assigned to
+   reg [15:0] 	 out;
+
+// at each change of a,b,or control, reevaluate
+always @ (a, b, ctrl)
+  case (ctrl)
+	000: out <= a | b; // or operation
+	001: out <= ~a | ~b; // not a or not b operation
+	010: out <= a & b; // and operation
+	011: out <= a ^ b; // xor operation
+	default: $display("Invalid control code!!\n"); // invalid code given
+  endcase
+endmodule
+
+

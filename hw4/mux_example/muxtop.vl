@@ -1,0 +1,42 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 4. 
+ Takes 2 1-bit numbers a,b and a 1-bit control input ctrl.
+ If ctrl is 0 then output is same as a, else it is same as b.
+*/
+module muxtop();
+
+   reg a;
+   reg b;
+   reg ctrl;
+   wire out;
+   
+   muxcode my_super_mux (a,b,ctrl,out);
+
+   initial
+   begin
+	  a = 1'b1;
+	  b = 1'b0;
+	  ctrl = 1'b0;
+
+	  #10;
+	  a = 1'b1;
+	  b = 1'b0;
+	  ctrl = 1'b1;
+
+	  #10;
+	  a = 1'b1;
+	  b = 1'b0;
+	  ctrl = 1'b0;
+
+	  #10;
+	  $dumpflush;
+   end // initial begin
+
+   initial
+   begin
+	  $monitor("a\t=\t%b \nb\t=\t%b \nctrl\t=\t%b \nout\t=\t%b \ntime\t=%t\n\n", a, b, ctrl, out, $time);
+   end
+endmodule

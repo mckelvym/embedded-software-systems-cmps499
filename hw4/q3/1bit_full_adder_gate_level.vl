@@ -1,0 +1,42 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 3. Design for a 16-bit adder.
+ Inputs are two 16-bit numbers and a 1-bit carry-in.
+ Output is a 16-bit sum and 1-bit carry-out.
+ This problem is done at GATE-Level.
+*/
+module my_1bit_full_adder_gate_level(a, b, cin, sum, cout);
+   
+   // declare inputs and outputs
+   input 	  a;
+   input 	  b;
+   input 	  cin;
+   output 	  sum;
+   output 	  cout;
+
+   // temporary wires to aid in calculation
+   wire 	  sum_temp;
+   wire [3:0] cout_temp;
+   
+   // calculate sum portion   
+   xor(sum_temp[0], b, cin);
+   xor(sum, a, sum_temp);
+
+   // perform and components of carry out, store temporarily in wire
+   and(cout_temp[0], b, cin);
+   and(cout_temp[1], a, cin);
+   and(cout_temp[2], a, b);
+
+   // calculate cout portion
+   or(cout_temp[3], cout_temp[2], cout_temp[1]);
+   or(cout, cout_temp[3], cout_temp[0]);
+/*
+   // use the logic equations for 1-bit full adder to compute sum and carryout
+   assign  sum = a ^ b ^ cin;
+   assign  cout = (a & b) | (a & cin) | (b & cin);
+*/
+endmodule
+
+
