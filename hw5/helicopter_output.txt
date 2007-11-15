@@ -1,0 +1,1501 @@
+VCD info: dumpfile top.dump opened for output.
+clock=1 come_home=0 ack_sig=0 state=000 radius=000 time=                   0
+
+clock=0 come_home=0 ack_sig=0 state=000 radius=000 time=                   1
+
+clock=1 come_home=0 ack_sig=0 state=000 radius=000 time=                   2
+
+clock=0 come_home=0 ack_sig=0 state=000 radius=000 time=                   3
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                   4
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                   5
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                   6
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                   7
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                   8
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                   9
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  10
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  11
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  12
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  13
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  14
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  15
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  16
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  17
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  18
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  19
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  20
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  21
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  22
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  23
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  24
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  25
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  26
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  27
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  28
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  29
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  30
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  31
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  32
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  33
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  34
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  35
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  36
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  37
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  38
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  39
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  40
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  41
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  42
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  43
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  44
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  45
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  46
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  47
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  48
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  49
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  50
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  51
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  52
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  53
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  54
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  55
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  56
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  57
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  58
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  59
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  60
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  61
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  62
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  63
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  64
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  65
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  66
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  67
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  68
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  69
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  70
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  71
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  72
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  73
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  74
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  75
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  76
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  77
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  78
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  79
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  80
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  81
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  82
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  83
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  84
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  85
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  86
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  87
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  88
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  89
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  90
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  91
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  92
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  93
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  94
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  95
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  96
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  97
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                  98
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                  99
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 100
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 101
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 102
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 103
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 104
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 105
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 106
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 107
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 108
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 109
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 110
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 111
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 112
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 113
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 114
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 115
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 116
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 117
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 118
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 119
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 120
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 121
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 122
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 123
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 124
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 125
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 126
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 127
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 128
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 129
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 130
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 131
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 132
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 133
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 134
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 135
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 136
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 137
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 138
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 139
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 140
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 141
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 142
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 143
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 144
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 145
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 146
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 147
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 148
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 149
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 150
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 151
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 152
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 153
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 154
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 155
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 156
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 157
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 158
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 159
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 160
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 161
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 162
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 163
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 164
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 165
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 166
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 167
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 168
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 169
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 170
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 171
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 172
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 173
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 174
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 175
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 176
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 177
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 178
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 179
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 180
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 181
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 182
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 183
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 184
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 185
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 186
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 187
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 188
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 189
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 190
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 191
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 192
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 193
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 194
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 195
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 196
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 197
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 198
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 199
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 200
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 201
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 202
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 203
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 204
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 205
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 206
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 207
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 208
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 209
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 210
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 211
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 212
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 213
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 214
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 215
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 216
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 217
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 218
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 219
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 220
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 221
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 222
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 223
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 224
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 225
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 226
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 227
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 228
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 229
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 230
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 231
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 232
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 233
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 234
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 235
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 236
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 237
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 238
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 239
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 240
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 241
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 242
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 243
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 244
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 245
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 246
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 247
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 248
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 249
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 250
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 251
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 252
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 253
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 254
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 255
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 256
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 257
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 258
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 259
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 260
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 261
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 262
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 263
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 264
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 265
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 266
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 267
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 268
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 269
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 270
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 271
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 272
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 273
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 274
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 275
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 276
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 277
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 278
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 279
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 280
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 281
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 282
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 283
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 284
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 285
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 286
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 287
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 288
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 289
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 290
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 291
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 292
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 293
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 294
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 295
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 296
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 297
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 298
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 299
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 300
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 301
+
+clock=1 come_home=0 ack_sig=0 state=001 radius=101 time=                 302
+
+clock=0 come_home=0 ack_sig=0 state=001 radius=101 time=                 303
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 304
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 305
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 306
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 307
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 308
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 309
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 310
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 311
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 312
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 313
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 314
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 315
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 316
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 317
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 318
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 319
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 320
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 321
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 322
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 323
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 324
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 325
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 326
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 327
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 328
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 329
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 330
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 331
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 332
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 333
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 334
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 335
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 336
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 337
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 338
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 339
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 340
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 341
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 342
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 343
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 344
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 345
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 346
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 347
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 348
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 349
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 350
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 351
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 352
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 353
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 354
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 355
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 356
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 357
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 358
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 359
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 360
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 361
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 362
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 363
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 364
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 365
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 366
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 367
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 368
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 369
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 370
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 371
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 372
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 373
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 374
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 375
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 376
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 377
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 378
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 379
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 380
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 381
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 382
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 383
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 384
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 385
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 386
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 387
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 388
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 389
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 390
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 391
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 392
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 393
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 394
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 395
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 396
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 397
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 398
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 399
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 400
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 401
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 402
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 403
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 404
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 405
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 406
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 407
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 408
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 409
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 410
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 411
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 412
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 413
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 414
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 415
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 416
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 417
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 418
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 419
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 420
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 421
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 422
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 423
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 424
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 425
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 426
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 427
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 428
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 429
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 430
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 431
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 432
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 433
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 434
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 435
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 436
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 437
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 438
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 439
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 440
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 441
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 442
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 443
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 444
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 445
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 446
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 447
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 448
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 449
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 450
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 451
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 452
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 453
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 454
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 455
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 456
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 457
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 458
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 459
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 460
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 461
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 462
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 463
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 464
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 465
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 466
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 467
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 468
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 469
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 470
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 471
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 472
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 473
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 474
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 475
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 476
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 477
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 478
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 479
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 480
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 481
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 482
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 483
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 484
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 485
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 486
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 487
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 488
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 489
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 490
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 491
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 492
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 493
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 494
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 495
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 496
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 497
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 498
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 499
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 500
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 501
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 502
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 503
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 504
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 505
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 506
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 507
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 508
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 509
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 510
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 511
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 512
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 513
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 514
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 515
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 516
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 517
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 518
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 519
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 520
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 521
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 522
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 523
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 524
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 525
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 526
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 527
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 528
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 529
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 530
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 531
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 532
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 533
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 534
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 535
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 536
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 537
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 538
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 539
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 540
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 541
+
+clock=1 come_home=0 ack_sig=0 state=010 radius=100 time=                 542
+
+clock=0 come_home=0 ack_sig=0 state=010 radius=100 time=                 543
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 544
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 545
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 546
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 547
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 548
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 549
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 550
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 551
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 552
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 553
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 554
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 555
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 556
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 557
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 558
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 559
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 560
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 561
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 562
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 563
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 564
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 565
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 566
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 567
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 568
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 569
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 570
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 571
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 572
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 573
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 574
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 575
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 576
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 577
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 578
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 579
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 580
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 581
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 582
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 583
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 584
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 585
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 586
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 587
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 588
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 589
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 590
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 591
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 592
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 593
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 594
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 595
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 596
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 597
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 598
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 599
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 600
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 601
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 602
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 603
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 604
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 605
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 606
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 607
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 608
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 609
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 610
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 611
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 612
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 613
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 614
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 615
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 616
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 617
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 618
+
+clock=0 come_home=0 ack_sig=0 state=011 radius=010 time=                 619
+
+clock=1 come_home=0 ack_sig=0 state=011 radius=010 time=                 620
+
+clock=0 come_home=1 ack_sig=1 state=110 radius=000 time=                 621
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 622
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 623
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 624
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 625
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 626
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 627
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 628
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 629
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 630
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 631
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 632
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 633
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 634
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 635
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 636
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 637
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 638
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 639
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 640
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 641
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 642
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 643
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 644
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 645
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 646
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 647
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 648
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 649
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 650
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 651
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 652
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 653
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 654
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 655
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 656
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 657
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 658
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 659
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 660
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 661
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 662
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 663
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 664
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 665
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 666
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 667
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 668
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 669
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 670
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 671
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 672
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 673
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 674
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 675
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 676
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 677
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 678
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 679
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 680
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 681
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 682
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 683
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 684
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 685
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 686
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 687
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 688
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 689
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 690
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 691
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 692
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 693
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 694
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 695
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 696
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 697
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 698
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 699
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 700
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 701
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 702
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 703
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 704
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 705
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 706
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 707
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 708
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 709
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 710
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 711
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 712
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 713
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 714
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 715
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 716
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 717
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 718
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 719
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 720
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 721
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 722
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 723
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 724
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 725
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 726
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 727
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 728
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 729
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 730
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 731
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 732
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 733
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 734
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 735
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 736
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 737
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 738
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 739
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 740
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 741
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 742
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 743
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 744
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 745
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 746
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 747
+
+clock=1 come_home=0 ack_sig=1 state=110 radius=000 time=                 748
+
+clock=0 come_home=0 ack_sig=1 state=110 radius=000 time=                 749
+

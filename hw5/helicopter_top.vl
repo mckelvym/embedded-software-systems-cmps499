@@ -1,0 +1,59 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 2.
+ Controller for mini-toy helicopter. Human presses "geaux", it is starting up. Helicopter flies to 10ft height.
+ Circles in 5ft radius for 5minutes. Circles in 4ft radius for 4minutes. Circles in 2ft radius for 3minutes.
+ User may press "come home" button, so it must come back to center and land.
+ When helicoper is sent a command, it sends acknowledge signal.
+
+ States:
+ 0. Ascend to 10ft. (4s)
+ 1. Circle in 5ft radius (300s)
+ 2. Circle in 4ft radius (240s)
+ 3. Circle in 2ft radius (180s)
+ 4. Descend to ground (5s)
+ 5. Powerdown state. (1s)
+ 6. Emergency state: Return to center and land. (5s)
+*/
+
+module top();
+
+   reg 		  clock_signal = 1; // clock to the helicopter
+   reg 		  come_home = 0; // signal to come home
+   wire [2:0] state; // current state of helicopter
+   wire [2:0] radius; // current radius from center
+   wire 	  ack_sig; // signal of acknowledgement to come home
+   
+   // control module
+   helicopter_control heli(clock_signal, come_home, state, radius, ack_sig);
+
+   // start the clock ticking every 1 time unit
+   initial
+   begin
+	  forever #1 clock_signal = ~clock_signal;
+   end
+   
+   // send come home signal
+   initial
+   begin
+	  #621 come_home = 1;
+   end
+
+   // stop sending come home signal
+   initial
+   begin
+	  #622 come_home = 0;
+   end
+
+   initial
+   begin
+	  // output status
+	  $monitor("clock=%1b come_home=%1b ack_sig=%1b state=%3b radius=%3b time=%t\n", clock_signal, come_home, ack_sig, state, radius, $time);	
+	  $dumpfile("top.dump");
+   	  $dumpvars(5, top);
+	  // quit the program after this much time
+	  #750 $finish;
+   end
+endmodule

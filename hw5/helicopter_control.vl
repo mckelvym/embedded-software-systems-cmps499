@@ -1,0 +1,110 @@
+/*
+Mark McKelvy
+CMPS499: Embedded Software Systems
+HW4
+ Problem 2.
+ Controller for mini-toy helicopter. Human presses "geaux", it is starting up. Helicopter flies to 10ft height.
+ Circles in 5ft radius for 5minutes. Circles in 4ft radius for 4minutes. Circles in 2ft radius for 3minutes.
+ User may press "come home" button, so it must come back to center and land.
+ When helicoper is sent a command, it sends acknowledge signal.
+
+ States:
+ 0. Ascend to 10ft. (4s)
+ 1. Circle in 5ft radius (300s)
+ 2. Circle in 4ft radius (240s)
+ 3. Circle in 2ft radius (180s)
+ 4. Descend to ground (5s)
+ 5. Powerdown state. (1s)
+ 6. Emergency state: Return to center and land. (5s)
+*/
+
+module helicopter_control(clock_signal, come_home, state, radius, ack_sig);
+
+   input 		clock_signal; // incoming clock signal
+   input 		come_home; // incoming come home signal
+   output [2:0] state; // send state as output
+   reg [2:0] 	state = 3'b111; // so we can manipulate state
+   output [2:0] radius; // send radius as output
+   reg [2:0] 	radius = 3'b000; // so we can manipulate radius
+   output 		ack_sig; // send ack signal as output
+   reg 			ack_sig = 0; // so we can change ack signal
+   
+   reg [2:0] 	next_state; // for state machine
+   reg [2:0] 	next_radius; // for state machine
+   
+   // aliases for states
+   parameter 	state0= 3'b000;
+   parameter 	state1= 3'b001;
+   parameter 	state2= 3'b010;
+   parameter 	state3= 3'b011;
+   parameter 	state4= 3'b100;
+   parameter 	state5= 3'b101;
+   parameter 	state6= 3'b110;
+ 	
+   // evaluate at every clock signal change
+   always @(clock_signal)
+	 begin: state_change
+		if (ack_sig == 1) // if send ack, then safely land
+		  begin
+			 state = state6; // safe land/return home state
+			 radius = 3'b000;
+		  end
+		else
+		  begin // otherwise continue changing states
+			 state = next_state;
+			 radius = next_radius;
+		  end
+	 end
+
+   // receive come_home signal, send ack
+   always @(posedge come_home)
+	 begin: return_to_base
+		ack_sig = 1;
+	 end
+
+   // at every state change, re-evaluate
+   always @(state)
+	 begin: next_state_switcher
+		case(state)
+		  state0: begin
+			 #4
+			 assign next_state = state1;
+			 assign next_radius = 3'b101;
+		  end
+		  state1: begin
+			 #300
+			 assign next_state = state2;
+			 assign next_radius = 3'b100;
+		  end
+		  state2: begin
+			 #240		 
+			 assign next_state = state3;
+			 assign next_radius = 3'b010;
+		  end
+		  state3: begin
+			 #180
+			 assign next_state = state4;
+			 assign next_radius = 3'b000;
+		  end
+		  state4: begin
+			 #5
+			 assign next_state = state5;
+			 assign next_radius = 3'b000;
+		  end
+		  state5: begin
+			 #1
+			 assign next_state = state6;
+			 assign next_radius = 3'b000;
+		  end
+		  state6: begin
+			 #5
+			 assign next_state = state6;
+			 assign next_radius = 3'b000;
+		  end
+		  default: begin
+			 assign next_state = state0;
+			 assign next_radius = 3'b000;
+		  end
+		endcase
+	 end
+endmodule
